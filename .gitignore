@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+run/step*.npz
+!run/step60000.npz
+.DS_Store
